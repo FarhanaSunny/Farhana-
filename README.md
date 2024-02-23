@@ -7,4 +7,4 @@
 
 ## Projects
 
--[Tongue Twister Generator](https://farhanasunny.github.io/Tongue-Twisters-Generator/)
+- [Tongue Twister Generator](https://farhanasunny.github.io/Tongue-Twisters-Generator/)
